@@ -1,1 +1,3 @@
 # Color-Quantization
+This project implements color quantization, a technique that reduces the number of distinct colors in an image, effectively clustering similar colors together. By converting the image's colors into a limited number of representative clusters, this method simplifies the image while retaining its essential visual features.By reducing the color palette of an image through quantization, this project demonstrates the powerful effects of clustering techniques in image processing. Whether for artistic stylization or practical image compression, color quantization is a versatile tool in the field of computer vision.
+
